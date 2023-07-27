@@ -1,0 +1,11 @@
+Summary of work performed
+-combined 2 data sources, grouped by school to avoid duplicate data. Did overall analysis over the whole district, then grouped by school and did the same analysis per school. Then categorized school size and budget per capita to for relationships/effect on test scores.
+
+
+Conclusions 
+
+1. Schools with less money per capita actually have higher passing rates for math and reading. As $/capita increases, math and reading scores drop at least in this range of budgets analyzed.
+
+2. There is a big dropoff in both reading and math test scores going from medium to large. Perhaps not enough student-teacher 1on1 time.
+
+Mark McLaughlin
